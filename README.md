@@ -1,4 +1,3 @@
-# -weather-api-streamlit
 # Weather API Streamlit
 
 ## Project Overview
